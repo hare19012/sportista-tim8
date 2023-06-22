@@ -6,7 +6,7 @@
 ### Odsjek za matematičke i kompjuterske nauke 
 ### Prirodno-matematički fakultet 
 ### Univerzitet u Sarajevu 
-### Treba napomenuti da aplikacija ima implementiran recommended system(Kada korisnici odigraju termin mogu ocijeniti taj teren i na osnovu tih ocjena korisnicima se tereni preporucuju, tacnije provuceno je kroz neuralnu mrežu.)
+### Treba napomenuti da aplikacija ima implementiran recommended system (Kada korisnici odigraju termin mogu ocijeniti taj teren. Na osnovu tih ocjena korisnicima se tereni preporučuju, tacnije provučeno je kroz neuralnu mrežu.)
 
 ## Uvod
 
